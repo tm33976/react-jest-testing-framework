@@ -32,7 +32,7 @@ This hands-on project explores:
 ✅ Wrote **40 + automated tests** validating UI behavior, state updates & API responses  
 ✅ Created manual test cases and logged bugs (simulated Jira workflow)  
 ✅ Practiced **SDLC-aligned QA** – requirement analysis, testing, bug reporting, regression  
-✅ Extended project to include basic **AI response evaluation tests** (for Zoop Live alignment)
+
 
 ---
 
