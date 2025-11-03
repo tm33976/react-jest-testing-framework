@@ -40,8 +40,8 @@ This hands-on project explores:
 
 ```bash
 # Clone the project
-git clone https://github.com/tm33976/testing-react-apps.git
-cd testing-react-apps
+git clone https://github.com/tm33976/react-jest-testing-framework.git
+cd react-jest-testing-framework
 
 # Install dependencies
 npm install
